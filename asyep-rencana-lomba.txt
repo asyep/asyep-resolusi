@@ -1,6 +1,7 @@
 RENCANA LOMBBA
 - PKM
   semester 4
+  ^ wajib
 - P2MW
   semester 3
 - Gemastik
