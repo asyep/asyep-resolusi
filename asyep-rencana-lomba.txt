@@ -1,6 +1,8 @@
 RENCANA LOMBBA
 - PKM
   semester 4
+  ^ wajib
+  ^ diusahakan
 - P2MW
   semester 3
 - Gemastik
